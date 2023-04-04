@@ -2,10 +2,9 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ### A collection of awesome tools for building interactive data applications. :tada:
+> ### A collection of awesome tools for building interactive data visualization applications. :tada:
 
 <br>
-
 
 ## Contents
 - [Python](#python)
@@ -17,25 +16,29 @@
     - [Shiny](#shiny)
 - [JavaScript](#javascript)
 
+<br>
+
 ## Python
 
 ### Altair
-- **Vega-Altair**: Declarative Visualization in Python. [[GitHub]](https://github.com/altair-viz/altair) [[Website]](https://altair-viz.github.io/)
+- [**Vega-Altair**](https://altair-viz.github.io/): Declarative Visualization in Python. [[GitHub]](https://github.com/altair-viz/altair) [[Gallery]](https://altair-viz.github.io/gallery/)
 
 ### Bokeh
-- **bokeh**: Interactive Data Visualization in the browser from Python. [[GitHub]](https://github.com/bokeh/bokeh) [[Website]](https://bokeh.org/)
+- [**bokeh**](https://bokeh.org/): Interactive Data Visualization in the browser from Python. [[GitHub]](https://github.com/bokeh/bokeh) [[Gallery]](https://docs.bokeh.org/en/latest/docs/gallery.html)
 
 ### Dash
-- **Dash**: Data Apps & Dashboards for Python. [[GitHub]](https://github.com/plotly/dash) [[Examples]](https://plotly.com/examples/)
+- [**dash**](https://plotly.com/dash): Data Apps & Dashboards for Python. [[GitHub]](https://github.com/plotly/dash) [[Gallery]](https://plotly.com/examples/)
 
 ### Datapane
-- **Datapane**: Build data products in 100% Python. [[GitHub]](https://github.com/datapane) [[Gallery]](https://datapane.com/gallery)
+- [**datapane**](https://datapane.com/): Build data products in 100% Python. [[GitHub]](https://github.com/datapane) [[Gallery]](https://datapane.com/gallery)
 
+<br>
 
 ## R
 
 ### Shiny
-- **shiny**: Web Application Framework for R. [[GitHub]](https://github.com/rstudio/shiny) [[Gallery]](https://shiny.rstudio.com/gallery/) [[Book]](https://mastering-shiny.org/)
+- [**shiny**](https://cran.r-project.org/web/packages/shiny/): Web Application Framework for R. [[GitHub]](https://github.com/rstudio/shiny) [[Gallery]](https://shiny.rstudio.com/gallery/) [[Book]](https://mastering-shiny.org/)
 
+<br>
 
 ## JavaScript
